@@ -94,5 +94,5 @@ AI-powered application ecosystem involving:
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [add-your-link](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
-* Email: jdgupta1980@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
+* [Email](jdgupta1980@gmail.com)
