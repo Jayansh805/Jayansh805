@@ -1,6 +1,6 @@
 # Hi there, I'm Jayansh Khandelwal 👋
 
-Mathematics & Computing student and developer building projects that combine performance, scalability, and practical impact.
+Mathematics & Computing student @IIT Guwahati | Developer building projects that combine performance, scalability, and practical impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jdgupta1980@gmail.com)
