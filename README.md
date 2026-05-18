@@ -92,14 +92,6 @@ AI-powered application ecosystem involving:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayansh805\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayansh805\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: [add-your-link](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
