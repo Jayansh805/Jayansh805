@@ -1,98 +1,39 @@
 # Hi there, I'm Jayansh Khandelwal 👋
 
-## 🚀 About Me
+Mathematics & Computing student and developer building projects that combine performance, scalability, and practical impact.
 
-I'm a developer and Mathematics & Computing student interested in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jdgupta1980@gmail.com)
 
-* Machine Learning & Data Analytics
-* High-performance C++ systems
-* Concurrent & Lock-Free Data Structures
-* Full-Stack Development
-* AI-powered applications
+---
 
-I enjoy building projects that combine performance, scalability, and practical impact.
+## 🚀 Interests
+
+`Machine Learning & Data Analytics` `High-Performance C++ Systems` `Concurrent & Lock-Free Data Structures` `Full-Stack Development` `AI-Powered Applications`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-* C++
-* Python
-* JavaScript
-* SQL
-
-### Frameworks & Tools
-
-* React
-* Tailwind CSS
-* Node.js
-* FastAPI
-* Git & GitHub
-* Linux
-
-### ML & Data
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
+| Languages | Frontend | Backend & Tools | ML & Data |
+|-----------|----------|-----------------|-----------|
+| C++ | React | Node.js | Pandas · NumPy |
+| Python | Tailwind CSS | FastAPI | Scikit-learn |
+| JavaScript | | Git & GitHub | Matplotlib |
+| SQL | | Linux | |
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Thread-Safe Queue Library
+High-performance C++ concurrency library with lock-free, blocking, and SPSC/MPSC/MPMC queue variants. Includes a Google Benchmark suite with modern C++ memory ordering.
 
-A high-performance C++ concurrency library featuring:
-
-* Lock-free queues
-* Blocking queues
-* SPSC / MPSC / MPMC / MPMC variants
-* Google Benchmark performance suite
-* Modern C++ memory ordering & synchronization
-
-### 🔹 Algorithmic Intraday Strategy (InterIIT)
-
-Quantitative trading strategy project focused on:
-
-* Intraday signal generation
-* Market data analysis
-* Backtesting pipelines
-* Statistical modeling
-* Performance optimization
+### 🔹 Algorithmic Intraday Strategy *(InterIIT)*
+Quantitative trading strategy with intraday signal generation, market data analysis, and backtesting pipelines. Focused on statistical modeling and performance optimization.
 
 ### 🔹 Security Monitoring System
-
-Monitoring and alerting platform designed for:
-
-* Real-time event tracking
-* Threat detection workflows
-* System observability
-* Logging and analytics
-* Scalable backend architecture
+Real-time event tracking and threat detection platform with system observability, logging, and a scalable backend architecture.
 
 ### 🔹 AI-Unlocked
-
-AI-powered application ecosystem involving:
-
-* Intelligent workflows
-* AI integrations
-* Automation systems
-* Modern frontend/backend stack
-* Practical AI tooling
-
----
-
-## 📈 Currently Learning
-
-* Advanced Machine Learning
-* Systems programming
-
----
-
-## 🌐 Connect With Me
-
-* [LinkedIn](https://www.linkedin.com/in/jayansh-khandelwal-5b94b4326/)
-* [Email](jdgupta1980@gmail.com)
+AI-powered application ecosystem with intelligent workflows, automation systems, and practical AI tooling on a modern full-stack.
